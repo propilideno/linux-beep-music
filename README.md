@@ -1,6 +1,12 @@
 # linux-beep-music
 A library to compound music using pcspkr module and motherboard speaker
 
+# Requirements
+- beep
+```
+sudo apt install beep
+```
+
 # Songs
 Play megalovania
 ```bash
