@@ -16,7 +16,9 @@ sudo apt install beep
 
 # Songs
 ## Megalovania - Undertale
-Source: https://virtualpiano.net/music-sheet/megalovania-undertale-toby-fox-easy/
+**Music Sheet Source:** https://virtualpiano.net/music-sheet/megalovania-undertale-toby-fox-easy/
+
+**Script Author:** @propilideno
 ```bash
 curl https://raw.githubusercontent.com/propilideno/linux-beep-music/main/megalovania.sh | bash
 ```
