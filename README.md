@@ -3,12 +3,12 @@ A library to compound music using pcspkr module and motherboard speaker
 
 # Requirements
 ## Advanced PC-speaker beeper
- beep does what you'd expect: it beeps. But unlike printf "\a", beep allows
- you to control pitch, duration, and repetitions. Its job is to live inside
- shell/perl scripts and allow more granularity than one has otherwise. It is
- controlled completely through command line options. It's not supposed to be
- complex, and it isn't - but it makes system monitoring (or whatever else it
- gets hacked into) much more informative.
+beep does what you'd expect: it beeps. But unlike printf "\a", beep allows
+you to control pitch, duration, and repetitions. Its job is to live inside
+shell/perl scripts and allow more granularity than one has otherwise. It is
+controlled completely through command line options. It's not supposed to be
+complex, and it isn't - but it makes system monitoring (or whatever else it
+gets hacked into) much more informative.
 
 ```
 sudo apt install beep
